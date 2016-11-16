@@ -1,0 +1,5 @@
+# ignore node packages
+/node_modules/
+
+# ignore build folder
+/output/
